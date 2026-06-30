@@ -48,7 +48,6 @@ The architecture follows AWS and Kubernetes best practices using serverless comp
 | OIDC                         | Identity Federation           |
 | IRSA                         | Secure Pod-level AWS Access   |
 | ALB                          | External Traffic Routing      |
-| EC2 Networking (VPC default) | Cluster Networking            |
 
 ---
 
@@ -67,7 +66,7 @@ The architecture follows AWS and Kubernetes best practices using serverless comp
 ## Author
 
 **Karthik S Patil**
-BCA Graduate | Aspiring Cloud & DevOps Engineer
+BCA Graduate 
 
 GitHub: https://github.com/karthik-s-patil
 LinkedIn: https://www.linkedin.com/in/karthikspatil2004
